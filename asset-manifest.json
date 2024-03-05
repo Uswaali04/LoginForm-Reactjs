@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/LoginForm-Reactjs/static/js/main.5aaa36c3.js",
+    "static/js/453.dda2186f.chunk.js": "/LoginForm-Reactjs/static/js/453.dda2186f.chunk.js",
+    "index.html": "/LoginForm-Reactjs/index.html",
+    "main.5aaa36c3.js.map": "/LoginForm-Reactjs/static/js/main.5aaa36c3.js.map",
+    "453.dda2186f.chunk.js.map": "/LoginForm-Reactjs/static/js/453.dda2186f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5aaa36c3.js"
+  ]
+}
